@@ -70,7 +70,7 @@ function App() {
         </div>
         <div id="results_images" class="results_images">
           <div id="results_user">
-            <img id="randomImageA" src={choice === 'gb'}></img>
+            <img id="randomImageA" src={userImage}></img>
           </div>
           <h1>vs</h1>
           <div id="results_pc">
